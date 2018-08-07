@@ -71,25 +71,17 @@ SLOs for this course are aligned with [AMIA 2017 Competencies for Health Informa
 ### Instructional Method and Learning Strategies
 The course is delivered asynchronously online. The course is organized in Units and Modules, which should be completed by the dates given in the **Course Schedule**. Instruction will be provided through web-based lectures in Canvas, web-based tutorials, readings, discussions, and recall-practice quizzes.
 
-#### Recall Practice Quizzes
-One definition of learning is “acquiring knowledge and skills and having them readily available from memory so you can make sense of future problems and opportunities”[^1] . These quizzes in this course are designed to give you credit as you practice recalling key concepts and facts from the material. They are short, and should take no longer than 5 minutes to complete. Although each is worth relatively little, they combine to have a large impact, so do not neglect them.
+#### Recall Practice Questions & Quizzes _SLO 1, 3_
+One of the best ways to remember what you're studying is to self-quiz. As you read, watch, listen, and otherwise learn, create a few multiple-choice style questions. These will be posted to a discussion forum so your colleagues can benefit, and then 5-7 select questions will be used during the later week(s) of the module as assigned quizzes.
 
-[^1]: Brown, P. C., Roediger, H. L., & McDaniel, M. A. (2014). Make It Stick. Harvard University Press
+#### Real World Assignments _SLOs 2, 3_
+During each module, you will select and complete one or more Real World Assignments from a menu provided by your instructor. Each of these assignments represents an opportunity to practice an IT skill related to that modules content. Beyond building your toolbox of relevant skills, these assignments also allow you to practice finding solutions to IT problems online.
 
-#### Blog Posts and Discussion
-Each student is required to post a short blog reflecting on the week’s material. The following week, students will read and respond to one another’s blog posts in a discussion board. Blog posts are encouraged to take a variety of forms, including but not limited to:
+#### In The Wild Analyses and Discussion _SLOs 1, 3_
+During the second and third week of each module, you will select and analyze a news story or IT system related to the modules content, with on a systems-thinking perspective. You will also read and discuss your colleagues analyses, offering feedback and contributing your discipline-specific insights.
 
-1.	In-Depth tutorials covering a challenging point in recent lab assignments.
-2.	Synthesis and summarization of one or more topical readings and lectures.
-3.	Sharing additional resources discovered in the broader web related to course outcomes.
-
-#### Topical Presentation & Participation
-A current topic in Health Informatics will be selected by the student, and approved by the professor, to be the subject of a research presentation on that topic. The topic should be finalized by mid-semester (Week 10). The presentation will be graded based on how completely the topic was covered, use of effective presentation techniques, as well as technical execution such as grammar and use of copyrighted images. Your presentation should include at least four references from peer reviewed journals, with references in APA 6th Ed. Format.
-
-In addition, students are required to view and respond to one another's presentations, with a portion of the grade attached to the quality of participation.
-
-#### Final Exam
-The final exam will be a case study assigned by the professor, with specific questions to be answered.  Case study will be provided two weeks prior to the end of the semester. The completed assignment must be uploaded to Canvas.
+#### Learning Journals _SLO 3_
+At the beginning and end of each module, as well as after completing major assignments, you'll complete a learning journal reflecting on your goals, strategies, and accomplishments
 
 
 ### Course Outline / Schedule
@@ -97,28 +89,21 @@ The course schedule, which provides Unit/Module completion and assignment due da
 
 
 ### Course Activities, Assessments, and Interactions
-This class is taught during a 13-week semester. For every hour of a class, an average of 3-4 hours of preparation and reading (not including assignments) would be considered normal. Web-based classes require as much, if not more, preparation on the part of the student as face-to-face classes.
+This class is taught during a 15-week semester. For every hour of a class, an average of 3-4 hours of preparation and reading (not including assignments) would be considered normal. Web-based classes require as much, if not more, preparation on the part of the student as face-to-face classes.
 
 This course consists of a sequence of activities, assessments, and interactions to support you in achieving the Student Learning Outcomes (SLOs) for this course. You will engage in activities, discussions, online-labs, and periodic submission of graded assignments which will provide feedback to enhance learning. Required activities are detailed in each Unit/Module. Instructions, examples, and a grading rubric for each assignment are located in their individual folders in Canvas.
 
-| SLO      | Assessment(s)                                  | Assessment Purpose                               |
-|----------|------------------------------------------------|--------------------------------------------------|
-| SLO 1    | Quizzes, Blog Posts & Discussion, Final Exam   | Demonstrate knowledge of Health Informatics      |
-| SLO 2    | Quizzes, Blog Posts & Discussion, Final Exam   | Demonstrate knowledge of Health Informatics      |
-| SLO 3    | Topical Presentation & Participation           | Devise and evaluated a new technology with<br>potential health care applications|
-| SLO 4    | Blog Posts & Discussion, Final Exam <br> Topical Presentation & Participation   | Identify and discuss the benefits to interprofessional<br>practice of health informatics system|
-| SLO 5    | Blog Posts & Discussion                        | Discuss changes in health informatics systems    |
 
 ### Grading
 Grades are assigned using weighted categories, as outlined below.
 
-| Activity             | % Total |
-|----------------------|--------:|
-| Daily Quizzes        |      20 |
-| Blogs & Discussion   |      40 |
-| Topical Presentation |      30 |
-| Final Exam           |      10 |
-| **TOTAL**            |     100 |
+| Activity                            | % Total |
+|-------------------------------------|--------:|
+| Recall Practice Questions & Quizzes |      20 |
+| Real World Assignments              |      40 |
+| In The Wild Analyses and Discussion |      20 |
+| Learning Journal                    |      20 |
+| **TOTAL**                           |     100 |
 
 #### Grading Scale
 
