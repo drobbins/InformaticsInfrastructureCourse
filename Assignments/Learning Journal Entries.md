@@ -23,6 +23,16 @@ To complete this assignment, complete the following activities:
 3. Submit your learning journal as an attachment (or link to Office 365 word document).
     * Throughout the semester, you will continue to edit and resubmit this same document.
 
+### Optional Question Template
+
+Consider asking yourself the following questions:
+
+1. What do I know about this topic right now?
+2. What do I want to know about this topic at the end of the semester?
+3. What will I do to learn the things I want to know?
+
+Be as specific and concrete as possible.
+
 ## Assessment
 
 (see Rubric)
@@ -48,6 +58,17 @@ To complete this assignment, complete the following activities:
 1. Re-open your learning journal Word document or Office 365 document.
 2. Write 3-5 sentences on your learning goals for this module and your strategies for achieving them.
 3. Submit your **updated** learning journal as an attachment (or link to Office 365 word document).
+
+### Optional Question Template
+
+Consider asking yourself the following questions:
+
+1. What do I know about this topic right now?
+2. What do I want to know about this topic at the end of the module?
+3. What will I do to learn the things I want to know?
+4. How do my answers to the first three questions support my semester-long goals?
+
+Be as specific and concrete as possible.
 
 ## Assessment
 
@@ -79,6 +100,19 @@ To complete this assignment, complete the following activities:
     * In your own words, how would you describe the key concepts of this module?
     * What important questions remain unanswered for you?
 3. Submit your **updated** learning journal as an attachment (or link to Office 365 word document).
+
+### Optional Question Template
+
+Consider asking yourself the following questions:
+
+1. What three successes did I have. For example:
+    * How did I succeed in accomplishing my goals?
+    * How were my strategies effective?
+    * How did I appropriately modify my goals or strategies to enable success?
+2. What one change could I have made to improve my success?
+3. The most important thing I learned is:
+
+As in the goals and strategy entry - be as _specific_ and _concrete_ as possible.
 
 ## Assessment
 
