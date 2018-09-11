@@ -23,7 +23,7 @@ To complete this assignment, complete the following activities:
 3. Submit your learning journal as an attachment (or link to Office 365 word document).
     * Throughout the semester, you will continue to edit and resubmit this same document.
 
-### Optional Question Template
+#### Optional Question Template
 
 Consider asking yourself the following questions:
 
@@ -59,7 +59,7 @@ To complete this assignment, complete the following activities:
 2. Write 3-5 sentences on your learning goals for this module and your strategies for achieving them.
 3. Submit your **updated** learning journal as an attachment (or link to Office 365 word document).
 
-### Optional Question Template
+#### Optional Question Template
 
 Consider asking yourself the following questions:
 
@@ -101,7 +101,7 @@ To complete this assignment, complete the following activities:
     * What important questions remain unanswered for you?
 3. Submit your **updated** learning journal as an attachment (or link to Office 365 word document).
 
-### Optional Question Template
+#### Optional Question Template
 
 Consider asking yourself the following questions:
 
